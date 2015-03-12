@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/skmtysm/AndroidStudioProjects/BackwardsCompatibleControl/backwardsCompatibleControl/build/intermediates/exploded-aar/BackwardsCompatibleControl/smartExtensionUtils/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b519208024e543e73d306d41966176e7870a3ec3">
+        <dex dex="/Users/skmtysm/AndroidStudioProjects/BackwardsCompatibleControl/backwardsCompatibleControl/build/intermediates/pre-dexed/debug/classes-7b3532dcbebf0ba53eba926e3447f6c93f5d0218.jar" />
+    </item>
+    <item
+        jar="/Users/skmtysm/AndroidStudioProjects/BackwardsCompatibleControl/backwardsCompatibleControl/build/intermediates/exploded-aar/BackwardsCompatibleControl/smartExtensionAPI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="62be1b12f22d984b60fb75ab85fb788533c8e2f8">
+        <dex dex="/Users/skmtysm/AndroidStudioProjects/BackwardsCompatibleControl/backwardsCompatibleControl/build/intermediates/pre-dexed/debug/classes-4fcc916b9c5589d5d88eaf24405492e92225783d.jar" />
+    </item>
+
+</items>

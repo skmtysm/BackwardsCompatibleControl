@@ -1,0 +1,3 @@
+/Users/skmtysm/AndroidStudioProjects/BackwardsCompatibleControl/backwardsCompatibleControl/build/intermediates/classes/debug
+/Users/skmtysm/AndroidStudioProjects/BackwardsCompatibleControl/backwardsCompatibleControl/build/intermediates/pre-dexed/debug/classes-4fcc916b9c5589d5d88eaf24405492e92225783d.jar
+/Users/skmtysm/AndroidStudioProjects/BackwardsCompatibleControl/backwardsCompatibleControl/build/intermediates/pre-dexed/debug/classes-7b3532dcbebf0ba53eba926e3447f6c93f5d0218.jar
